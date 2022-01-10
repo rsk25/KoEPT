@@ -1,0 +1,204 @@
+10/05/2020 18:40:15 - INFO - transformers.tokenization_utils_base -   loading file https://s3.amazonaws.com/models.huggingface.co/bert/monologg/kobert/tokenizer_78b3253a26.model from cache at /home/rsk/.cache/torch/transformers/1f871cf1d80a4c09742b5f2094cc7ab9163dfbcfb930d99fdc9149aebf6a13bb.7555cd8e0e341a4d19f33dcb20eaf8614c72f56827d1b28481046caabba18eb3
+10/05/2020 18:40:15 - INFO - transformers.tokenization_utils_base -   loading file https://s3.amazonaws.com/models.huggingface.co/bert/monologg/kobert/vocab.txt from cache at /home/rsk/.cache/torch/transformers/c247d0225676d99ae7f3e6d39dba68b77756181415828f922c6393e4aecb53ce.5d8505da4be274704344000e8d9a798ff03b513f5053f98f7e97d719a9a9891b
+10/05/2020 18:40:15 - INFO - transformers.tokenization_utils_base -   Assigning ['[N]'] to the additional_special_tokens key of the tokenizer
+10/05/2020 18:40:15 - INFO - root -   
+========================================================
+TEST for dataset: dataset/alg514_fold0_train.jsonl
+
+** Note: NoneType means original prefix equation in the dataset
+
+10/05/2020 18:40:30 - INFO - root -   
+----- SUMMARY for dataset: dataset/alg514_fold0_train.jsonl
+
+10/05/2020 18:40:30 - INFO - root -   Total error in                  NoneType:     0
+10/05/2020 18:40:30 - INFO - root -   Total error in           OpEquationField:     0
+10/05/2020 18:40:30 - INFO - root -   Total error in   ExpressionEquationField:     0
+10/05/2020 18:40:30 - INFO - root -   Total error in   ExpressionEquationField:     0
+10/05/2020 18:40:30 - INFO - root -   
+========================================================
+TEST for dataset: dataset/alg514_fold1_train.jsonl
+
+** Note: NoneType means original prefix equation in the dataset
+
+10/05/2020 18:40:47 - INFO - root -   
+----- SUMMARY for dataset: dataset/alg514_fold1_train.jsonl
+
+10/05/2020 18:40:47 - INFO - root -   Total error in                  NoneType:     0
+10/05/2020 18:40:47 - INFO - root -   Total error in           OpEquationField:     0
+10/05/2020 18:40:47 - INFO - root -   Total error in   ExpressionEquationField:     0
+10/05/2020 18:40:47 - INFO - root -   Total error in   ExpressionEquationField:     0
+10/05/2020 18:40:47 - INFO - root -   
+========================================================
+TEST for dataset: dataset/alg514_fold2_train.jsonl
+
+** Note: NoneType means original prefix equation in the dataset
+
+10/05/2020 18:41:03 - INFO - root -   
+----- SUMMARY for dataset: dataset/alg514_fold2_train.jsonl
+
+10/05/2020 18:41:03 - INFO - root -   Total error in                  NoneType:     0
+10/05/2020 18:41:03 - INFO - root -   Total error in           OpEquationField:     0
+10/05/2020 18:41:03 - INFO - root -   Total error in   ExpressionEquationField:     0
+10/05/2020 18:41:03 - INFO - root -   Total error in   ExpressionEquationField:     0
+10/05/2020 18:41:03 - INFO - root -   
+========================================================
+TEST for dataset: dataset/alg514_fold3_train.jsonl
+
+** Note: NoneType means original prefix equation in the dataset
+
+10/05/2020 18:41:18 - INFO - root -   
+----- SUMMARY for dataset: dataset/alg514_fold3_train.jsonl
+
+10/05/2020 18:41:18 - INFO - root -   Total error in                  NoneType:     0
+10/05/2020 18:41:18 - INFO - root -   Total error in           OpEquationField:     0
+10/05/2020 18:41:18 - INFO - root -   Total error in   ExpressionEquationField:     0
+10/05/2020 18:41:18 - INFO - root -   Total error in   ExpressionEquationField:     0
+10/05/2020 18:41:18 - INFO - root -   
+========================================================
+TEST for dataset: dataset/alg514_fold4_train.jsonl
+
+** Note: NoneType means original prefix equation in the dataset
+
+10/05/2020 18:41:33 - INFO - root -   
+----- SUMMARY for dataset: dataset/alg514_fold4_train.jsonl
+
+10/05/2020 18:41:33 - INFO - root -   Total error in                  NoneType:     0
+10/05/2020 18:41:33 - INFO - root -   Total error in           OpEquationField:     0
+10/05/2020 18:41:33 - INFO - root -   Total error in   ExpressionEquationField:     0
+10/05/2020 18:41:33 - INFO - root -   Total error in   ExpressionEquationField:     0
+10/06/2020 10:23:18 - INFO - transformers.tokenization_utils_base -   loading file https://s3.amazonaws.com/models.huggingface.co/bert/monologg/kobert/tokenizer_78b3253a26.model from cache at /home/rsk/.cache/torch/transformers/1f871cf1d80a4c09742b5f2094cc7ab9163dfbcfb930d99fdc9149aebf6a13bb.7555cd8e0e341a4d19f33dcb20eaf8614c72f56827d1b28481046caabba18eb3
+10/06/2020 10:23:18 - INFO - transformers.tokenization_utils_base -   loading file https://s3.amazonaws.com/models.huggingface.co/bert/monologg/kobert/vocab.txt from cache at /home/rsk/.cache/torch/transformers/c247d0225676d99ae7f3e6d39dba68b77756181415828f922c6393e4aecb53ce.5d8505da4be274704344000e8d9a798ff03b513f5053f98f7e97d719a9a9891b
+10/06/2020 10:23:18 - INFO - transformers.tokenization_utils_base -   Assigning ['[N]'] to the additional_special_tokens key of the tokenizer
+10/06/2020 10:23:18 - INFO - root -   
+========================================================
+TEST for dataset: dataset/alg514_fold0_train.jsonl
+
+** Note: NoneType means original prefix equation in the dataset
+
+10/06/2020 10:23:34 - INFO - root -   
+----- SUMMARY for dataset: dataset/alg514_fold0_train.jsonl
+
+10/06/2020 10:23:34 - INFO - root -   Total error in                  NoneType:     0
+10/06/2020 10:23:34 - INFO - root -   Total error in           OpEquationField:     0
+10/06/2020 10:23:34 - INFO - root -   Total error in   ExpressionEquationField:     0
+10/06/2020 10:23:34 - INFO - root -   Total error in   ExpressionEquationField:     0
+10/06/2020 10:23:34 - INFO - root -   
+========================================================
+TEST for dataset: dataset/alg514_fold1_train.jsonl
+
+** Note: NoneType means original prefix equation in the dataset
+
+10/06/2020 10:23:50 - INFO - root -   
+----- SUMMARY for dataset: dataset/alg514_fold1_train.jsonl
+
+10/06/2020 10:23:50 - INFO - root -   Total error in                  NoneType:     0
+10/06/2020 10:23:50 - INFO - root -   Total error in           OpEquationField:     0
+10/06/2020 10:23:50 - INFO - root -   Total error in   ExpressionEquationField:     0
+10/06/2020 10:23:50 - INFO - root -   Total error in   ExpressionEquationField:     0
+10/06/2020 10:23:50 - INFO - root -   
+========================================================
+TEST for dataset: dataset/alg514_fold2_train.jsonl
+
+** Note: NoneType means original prefix equation in the dataset
+
+10/06/2020 10:24:06 - INFO - root -   
+----- SUMMARY for dataset: dataset/alg514_fold2_train.jsonl
+
+10/06/2020 10:24:06 - INFO - root -   Total error in                  NoneType:     0
+10/06/2020 10:24:06 - INFO - root -   Total error in           OpEquationField:     0
+10/06/2020 10:24:06 - INFO - root -   Total error in   ExpressionEquationField:     0
+10/06/2020 10:24:06 - INFO - root -   Total error in   ExpressionEquationField:     0
+10/06/2020 10:24:06 - INFO - root -   
+========================================================
+TEST for dataset: dataset/alg514_fold3_train.jsonl
+
+** Note: NoneType means original prefix equation in the dataset
+
+10/06/2020 10:24:22 - INFO - root -   
+----- SUMMARY for dataset: dataset/alg514_fold3_train.jsonl
+
+10/06/2020 10:24:22 - INFO - root -   Total error in                  NoneType:     0
+10/06/2020 10:24:22 - INFO - root -   Total error in           OpEquationField:     0
+10/06/2020 10:24:22 - INFO - root -   Total error in   ExpressionEquationField:     0
+10/06/2020 10:24:22 - INFO - root -   Total error in   ExpressionEquationField:     0
+10/06/2020 10:24:22 - INFO - root -   
+========================================================
+TEST for dataset: dataset/alg514_fold4_train.jsonl
+
+** Note: NoneType means original prefix equation in the dataset
+
+10/06/2020 10:24:36 - INFO - root -   
+----- SUMMARY for dataset: dataset/alg514_fold4_train.jsonl
+
+10/06/2020 10:24:36 - INFO - root -   Total error in                  NoneType:     0
+10/06/2020 10:24:36 - INFO - root -   Total error in           OpEquationField:     0
+10/06/2020 10:24:36 - INFO - root -   Total error in   ExpressionEquationField:     0
+10/06/2020 10:24:36 - INFO - root -   Total error in   ExpressionEquationField:     0
+10/06/2020 11:21:09 - INFO - transformers.tokenization_utils_base -   loading file https://s3.amazonaws.com/models.huggingface.co/bert/monologg/kobert/tokenizer_78b3253a26.model from cache at /home/rsk/.cache/torch/transformers/1f871cf1d80a4c09742b5f2094cc7ab9163dfbcfb930d99fdc9149aebf6a13bb.7555cd8e0e341a4d19f33dcb20eaf8614c72f56827d1b28481046caabba18eb3
+10/06/2020 11:21:09 - INFO - transformers.tokenization_utils_base -   loading file https://s3.amazonaws.com/models.huggingface.co/bert/monologg/kobert/vocab.txt from cache at /home/rsk/.cache/torch/transformers/c247d0225676d99ae7f3e6d39dba68b77756181415828f922c6393e4aecb53ce.5d8505da4be274704344000e8d9a798ff03b513f5053f98f7e97d719a9a9891b
+10/06/2020 11:21:09 - INFO - transformers.tokenization_utils_base -   Assigning ['[N]'] to the additional_special_tokens key of the tokenizer
+10/06/2020 11:21:09 - INFO - root -   
+========================================================
+TEST for dataset: dataset/alg514_fold0_train.jsonl
+
+** Note: NoneType means original prefix equation in the dataset
+
+10/06/2020 11:21:25 - INFO - root -   
+----- SUMMARY for dataset: dataset/alg514_fold0_train.jsonl
+
+10/06/2020 11:21:25 - INFO - root -   Total error in                  NoneType:     0
+10/06/2020 11:21:25 - INFO - root -   Total error in           OpEquationField:     0
+10/06/2020 11:21:25 - INFO - root -   Total error in   ExpressionEquationField:     0
+10/06/2020 11:21:25 - INFO - root -   Total error in   ExpressionEquationField:     0
+10/06/2020 11:21:25 - INFO - root -   
+========================================================
+TEST for dataset: dataset/alg514_fold1_train.jsonl
+
+** Note: NoneType means original prefix equation in the dataset
+
+10/06/2020 11:21:41 - INFO - root -   
+----- SUMMARY for dataset: dataset/alg514_fold1_train.jsonl
+
+10/06/2020 11:21:41 - INFO - root -   Total error in                  NoneType:     0
+10/06/2020 11:21:41 - INFO - root -   Total error in           OpEquationField:     0
+10/06/2020 11:21:41 - INFO - root -   Total error in   ExpressionEquationField:     0
+10/06/2020 11:21:41 - INFO - root -   Total error in   ExpressionEquationField:     0
+10/06/2020 11:21:41 - INFO - root -   
+========================================================
+TEST for dataset: dataset/alg514_fold2_train.jsonl
+
+** Note: NoneType means original prefix equation in the dataset
+
+10/06/2020 11:21:57 - INFO - root -   
+----- SUMMARY for dataset: dataset/alg514_fold2_train.jsonl
+
+10/06/2020 11:21:57 - INFO - root -   Total error in                  NoneType:     0
+10/06/2020 11:21:57 - INFO - root -   Total error in           OpEquationField:     0
+10/06/2020 11:21:57 - INFO - root -   Total error in   ExpressionEquationField:     0
+10/06/2020 11:21:57 - INFO - root -   Total error in   ExpressionEquationField:     0
+10/06/2020 11:21:57 - INFO - root -   
+========================================================
+TEST for dataset: dataset/alg514_fold3_train.jsonl
+
+** Note: NoneType means original prefix equation in the dataset
+
+10/06/2020 11:22:13 - INFO - root -   
+----- SUMMARY for dataset: dataset/alg514_fold3_train.jsonl
+
+10/06/2020 11:22:13 - INFO - root -   Total error in                  NoneType:     0
+10/06/2020 11:22:13 - INFO - root -   Total error in           OpEquationField:     0
+10/06/2020 11:22:13 - INFO - root -   Total error in   ExpressionEquationField:     0
+10/06/2020 11:22:13 - INFO - root -   Total error in   ExpressionEquationField:     0
+10/06/2020 11:22:13 - INFO - root -   
+========================================================
+TEST for dataset: dataset/alg514_fold4_train.jsonl
+
+** Note: NoneType means original prefix equation in the dataset
+
+10/06/2020 11:22:28 - INFO - root -   
+----- SUMMARY for dataset: dataset/alg514_fold4_train.jsonl
+
+10/06/2020 11:22:28 - INFO - root -   Total error in                  NoneType:     0
+10/06/2020 11:22:28 - INFO - root -   Total error in           OpEquationField:     0
+10/06/2020 11:22:28 - INFO - root -   Total error in   ExpressionEquationField:     0
+10/06/2020 11:22:28 - INFO - root -   Total error in   ExpressionEquationField:     0
